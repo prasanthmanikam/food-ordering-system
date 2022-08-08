@@ -73,9 +73,9 @@ As a result, food ordering system was built by us to solve the problems.
 
 ### Built With
 
-This program is buikt using C++.
+This program is built with C++.
 
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="306" height="344" />
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="250" height="300" />
 
 
 
