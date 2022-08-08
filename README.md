@@ -54,8 +54,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![image](https://user-images.githubusercontent.com/109917265/183441709-754619e2-bab3-4f3b-a614-ad6f6d0a666a.png)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Food ordering at the Cafés at University can sometimes be troublesome.
 
@@ -69,15 +69,11 @@ As a result, food ordering system was built by us to solve the problems.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
 This program is built with C++.
 
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="200" height="230" />
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -87,29 +83,19 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+You will need a C++ compiler like gcc
+
+[Visit GCC website](https://gcc.gnu.org/)
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_This project include 2 files which is an exe file and source code file which is in .cpp._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. To run the file directly: 
+  a) Open the .exe file and run the file
+2. To view and edit the code:
+  b) Open the .cpp file using an ide such as CodeBlocks and so on. 
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +104,12 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The flow of the system is: 
+
+Firstly, the system will ask the user to input their own nick name. Next, it will show out the food menu. It will then ask the user to input which main dish does the user want to choose. After the user has input his/her choice, the system will ask wether the user want to add a side dish, user may choose yes or no. Then, the system will ask the user to input the quantity of the food. Lastly, the system will print out the total price and number of food that have ordered and will promt the user 
+wether want to reorder anything.
+
+![image](https://user-images.githubusercontent.com/109917265/183441942-eb466be3-4e6f-4207-81f3-3cf52aa2ff27.png)
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
